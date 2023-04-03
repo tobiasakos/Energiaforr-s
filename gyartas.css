@@ -1,0 +1,12 @@
+body {
+    background-color: antiquewhite;
+    color: maroon;
+}
+
+.tartalomkozep {
+    text-align: center;
+}
+
+.keret {
+    border: 1px solid black;
+}
